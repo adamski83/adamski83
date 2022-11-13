@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning JavaScript, React, Express.JS, Next.JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me adamsik83@wp.pl / adamkope82@gmail.com
 
 <!---
 adamski83/adamski83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
